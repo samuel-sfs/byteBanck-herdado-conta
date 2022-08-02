@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TesteString",
+            "request": "launch",
+            "mainClass": "br.com.bytebank.banco.teste.TesteString",
+            "projectName": "byteBanck-herdado-conta_23912c48"
+        },
+        {
+            "type": "java",
             "name": "Launch TesteSaca",
             "request": "launch",
             "mainClass": "br.com.bytebank.banco.teste.TesteSaca",
