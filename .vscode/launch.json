@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TesteSaca",
+            "request": "launch",
+            "mainClass": "br.com.bytebank.banco.teste.TesteSaca",
+            "projectName": "byteBanck-herdado-conta_23912c48"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteDeContas",
+            "request": "launch",
+            "mainClass": "br.com.bytebank.banco.teste.TesteDeContas",
+            "projectName": "byteBanck-herdado-conta_23912c48"
+        },
+        {
+            "type": "java",
             "name": "Launch TesteDeContas",
             "request": "launch",
             "mainClass": "br.com.bytebank.banco.teste.TesteDeContas",
