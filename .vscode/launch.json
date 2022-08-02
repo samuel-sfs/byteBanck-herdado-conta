@@ -1,0 +1,70 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TesteDeContas",
+            "request": "launch",
+            "mainClass": "br.com.bytebank.banco.teste.TesteDeContas",
+            "projectName": "byteBanck-herdado-conta_e953ee7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteTributaveis",
+            "request": "launch",
+            "mainClass": "br.com.bytebank.banco.teste.TesteTributaveis",
+            "projectName": "byteBanck-herdado-conta_e953ee7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteSaca",
+            "request": "launch",
+            "mainClass": "br.com.bytebank.banco.teste.TesteSaca",
+            "projectName": "byteBanck-herdado-conta_e953ee7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteSaca",
+            "request": "launch",
+            "mainClass": "TesteSaca",
+            "projectName": "byteBanck-herdado-conta_e953ee7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch FluxoComTratamento",
+            "request": "launch",
+            "mainClass": "Test.FluxoComTratamento",
+            "projectName": "byteBanck-herdado-conta_e953ee7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch FluxoComTratamento",
+            "request": "launch",
+            "mainClass": "FluxoComTratamento",
+            "projectName": "byteBanck-herdado-conta_e953ee7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteDeContas",
+            "request": "launch",
+            "mainClass": "TesteDeContas",
+            "projectName": "byteBanck-herdado-conta_e953ee7a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteTributaveis",
+            "request": "launch",
+            "mainClass": "TesteTributaveis",
+            "projectName": "byteBanck-herdado-conta_e953ee7a"
+        }
+    ]
+}
