@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Launch Teste",
             "request": "launch",
+            "mainClass": "teste.util.Teste",
+            "projectName": "byteBanck-herdado-conta_23912c48"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteArrayString",
+            "request": "launch",
+            "mainClass": "br.com.bytebank.banco.teste.TesteArrayString",
+            "projectName": "byteBanck-herdado-conta_23912c48"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteArrayReferencias",
+            "request": "launch",
+            "mainClass": "br.com.bytebank.banco.teste.TesteArrayReferencias",
+            "projectName": "byteBanck-herdado-conta_23912c48"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
             "mainClass": "br.com.bytebank.banco.teste.Teste",
             "projectName": "byteBanck-herdado-conta_23912c48"
         },
